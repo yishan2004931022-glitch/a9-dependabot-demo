@@ -1,0 +1,12 @@
+{
+  "name": "a9-dependabot-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "THROWAWAY demo for NTUST DevOps Assignment 9. Pins a known-vulnerable lodash on purpose so Dependabot has something to report. Never deploy; delete after screenshots.",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
